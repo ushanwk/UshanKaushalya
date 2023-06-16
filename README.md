@@ -9,8 +9,7 @@
 
 - 📫 How to reach me **Ushanwk22@gmail.com**
 
-<img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
-<br>
+<img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
