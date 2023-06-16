@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ushankaushalya&label=Profile%20views&color=0e75b6&style=flat" alt="ushankaushalya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ushankaushalya" alt="ushankaushalya" /></a> </p>
-
 - 🌱 I’m currently learning **Institute of Java Software Engineering.**
 
 - 👨‍💻 All of my Info are available at [https://ushankaushalya.github.io/My-Portfolio/](https://ushankaushalya.github.io/My-Portfolio/)
@@ -15,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ushankaushalya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ushankaushalya" height="30" width="40" /></a>
 <a href="https://fb.com/ushan kaushalya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ushan kaushalya" height="30" width="40" /></a>
-<a href="https://instagram.com/ushankaushalyawk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ushankaushalya" height="30" width="40" /></a>
+<a href="https://instagram.com/ushankaushalya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ushankaushalya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
